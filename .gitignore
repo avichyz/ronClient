@@ -2,3 +2,9 @@
 node_modules/\.cache/babel-loader/
 
 node_modules/
+
+build/static/css/
+
+build/static/js/
+
+build/static/media/
